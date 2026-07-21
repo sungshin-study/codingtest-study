@@ -1,0 +1,17 @@
+# Java
+*.class
+*.jar
+target/
+out/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store
