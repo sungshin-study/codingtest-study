@@ -31,7 +31,7 @@ week01/
 |-----|-------------|---------|
 | 이지원 | @JiwonLee42 | Java |
 | 권형미 | @hyomee2    | Java |
-| 이름3 | @handle3    | |
+| 심지영 | @Simmee02   |Python|
 | 이름4 | @handle4    | |
 | 이름5 | @handle5    | |
 
