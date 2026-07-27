@@ -25,6 +25,13 @@ week01/
 
 새 문제를 풀 때는 `_template/Template.py` 또는 `_template/Template.java`를 복사해서 `이름.py`/`이름.java`로 이름 바꾸고 채우면 됩니다. 설명은 파일 상단 주석에 씁니다.
 
+## 주차별 요약
+
+| 주차 | 다룬 알고리즘 |
+|------|----------------|
+| [week01](./week01) | MST(크루스칼), 이분탐색, DFS/BFS, Heap |
+| [week02](./week02) | DP, 문자열/시뮬레이션, 그리디, BFS, 완전탐색(DFS) |
+
 ## 참여자
 
 | 이름  | GitHub      | 주 언어 |
